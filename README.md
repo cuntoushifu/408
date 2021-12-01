@@ -5,7 +5,7 @@
 
 ###  文件夹介绍
 
--  `DataStructure`**（数据结构）**
+-  [`DataStructure`**（数据结构）**](https://github.com/cuntoushifu/408/tree/main/DataStructure)
    - [x] 数据结构1800题:partly_sunny:
    - [ ] 数据结构1800题分题目详解
 
