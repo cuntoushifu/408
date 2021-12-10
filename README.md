@@ -10,7 +10,7 @@
    - [ ] 数据结构1800题分题目详解
    - [x] 王道考研数据结构PPT🧳
    
-- [`OperatingSystem`**（操作系统）**](https://github.com/cuntoushifu/408/tree/main/OperatingSystem)
+- [`OperatingSystem`**（操作系统）**](操作系统/)
 
 - [`ComputerNetwork`**（计算机网络）**](https://github.com/cuntoushifu/408/tree/main/ComputerNetwork)
 
