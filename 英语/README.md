@@ -2,7 +2,26 @@
 
 ###  2022高分写作音频
 - 001
-<audio id = 'audio' controls = '' preload = 'none'><source id = 'mp3' src = './2022高分写作音频/经典范文001.mp3'></audio><br>
+<audio id = 'audio1' controls = '' preload = 'none'><source id = 'mp3' src = './2022高分写作音频/经典范文001.mp3'>
+</audio><br>
+
+<select id="select" onchange="changeRate()">
+   <option value="1" selected>1</option>
+   <option value="0.5">0.5</option>
+   <option value="2">2</option>
+</select>
+<script>
+const audio = document.getElementById('audio1');
+const select = document.getElementById('select');
+// change rate ...
+function changeRate() {
+    audio.playbackRate = select.options[select.selectedIndex].value;
+}
+</script>
+
+
+
+
 
 - 002
 <audio id = 'audio' controls = '' preload = 'none'><source id = 'mp3' src = './2022高分写作音频/经典范文002.mp3'></audio><br>
